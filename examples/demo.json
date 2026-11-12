@@ -1,0 +1,15 @@
+{
+  "reference_kelvin": 500,
+  "activation_over_R_kelvin": 5000,
+  "maximum_gap_s": 20,
+  "samples": [
+    {
+      "time_s": 0,
+      "kelvin": 500
+    },
+    {
+      "time_s": 10,
+      "kelvin": 500
+    }
+  ]
+}
